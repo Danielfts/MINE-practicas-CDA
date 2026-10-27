@@ -1,0 +1,3 @@
+# Keep local workshop data out of Git; retain dataset documentation.
+/talleres/practica-*/data/*
+!/talleres/practica-*/data/README.md
